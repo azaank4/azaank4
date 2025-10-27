@@ -86,8 +86,8 @@ Developed **multi-agent AI systems** capable of tool collaboration using framewo
 <p align="left">
 <a href="https://twitter.com/khanazaan1441" target="blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
 <a href="https://linkedin.com/in/azaan-khan-2a2324263" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-<a href="https://github.com/azaan-khan" target="blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-<a href="https://huggingface.co/azaan-khan" target="blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" /></a>
+<a href="https://github.com/azaank4" target="blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+<a href="https://huggingface.co/azaan34" target="blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" /></a>
 </p>
 
 ---
