@@ -1,20 +1,103 @@
 <h1 align="center">Hi 👋, I'm Azaan Khan</h1>
-<h3 align="center">A passionate AI Engineer from India</h3>
+<h3 align="center">AI Engineer | LLMOps | Agentic AI Developer | Research Enthusiast</h3>
 
-- 🔭 I’m currently working on **Personalized Book Project**
+---
 
-- 💬 Ask me about **Agentic AI, LangChain, Prompt engineering**
+### 🧠 About Me
+I’m an **AI Engineer** and **Computer Engineering student** passionate about building agentic AI systems, LLM-based tools, and intelligent automation workflows.  
+With hands-on experience integrating models from **Hugging Face, OpenAI, and Grok**, I specialize in transforming large language models into practical, real-world solutions that deliver measurable results.  
 
-- 📫 How to reach me **mr.khanazaan@gmail.com**
+- 🧩 Exploring **Agentic AI architectures**, **LangChain**, **CrewAI**, **Agno**, and **MCP integrations**
+- 🔬 Experienced in **LLMOps**, **Prompt Engineering**, and **RAG pipelines**
+- 🏗️ Currently researching **multi-agent orchestration and context-aware AI**
+- 💬 Ask me about **LangChain, CrewAI, Redis, FastAPI, or building AI workflows**
+- 📫 Reach me at **mr.khanazaan@gmail.com**
+- ⚡ Fun fact: **I’m equally obsessed with cars and cutting-edge AI models**
 
-- ⚡ Fun fact **I love cars and new stuff in AI**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🎓 Education
+- **B.E. in Computer Engineering** – Father Conceicao Rodrigues College of Engineering, Mumbai *(2022–2026)*  
+- **HSC (Class XII)** – Mithibai College, Mumbai *(2020–2022)*  
+
+---
+
+### 💼 Experience
+
+#### 🧪 **Nienna Labs — Research Intern (June 2024 – July 2025)**
+- Directed an evaluation project exploring **20+ flagship LLMs** including GPT-4o, Grok 3, and Qwen 2.5 series.  
+- Engineered **10 prompt templates** improving content quality by **20%** while minimizing hallucinations.  
+- Integrated **LLMs into an agentic workflow** adopted by **8+ researchers** to accelerate company data extraction.  
+
+#### ⚙️ **TEDxCRCE & Mozilla Campus Club — Technical Head (July 2023 – June 2024)**
+- Built and maintained the official website for the club.  
+- Automated **personalized email sending system** using dynamic UI templates.  
+
+---
+
+### 🧩 Projects
+
+#### 🧾 **fAInance**
+Built a high-quality **PDF parsing pipeline** separating text and images for improved context-aware document understanding.  
+Integrated a **text-based LLM** for semantic reasoning and a **vision model** for image interpretation.  
+Also developed a **voice chatbot** for multimodal interaction.
+
+#### 🤝 **Agentic Projects & MCP Integration**
+Developed **multi-agent AI systems** capable of tool collaboration using frameworks like **CrewAI, LangChain, and MCP** — enabling dynamic reasoning across connected tools, APIs, and data sources.
+
+---
+
+### 🧰 Tech Stack
+
+#### 💻 Languages
+`Python` · `C++` · `C` · `HTML` · `CSS` · `JavaScript` · `SQL`
+
+#### ⚙️ Frameworks & Libraries
+`LangChain` · `CrewAI` · `Agno` · `PraisonAI` · `Flask` · `Streamlit` · `Gradio` · `Bootstrap`
+
+#### 🧠 Tools & Platforms
+`Docker` · `Git` · `HuggingFace` · `YOLO` · `MCP` · `n8n` · `A2A` · `Prompt Engineering`
+
+#### 🗄️ Databases
+`MySQL` · `PostgreSQL` · `MongoDB` · `FAISS` · `ChromaDB`
+
+---
+
+### 🏆 Achievements & Certifications
+- 🥈 **1st Runner-Up at Hackspark 1.0 (State-level Hackathon)**  
+- 🧠 **HuggingFace Agents Course Certified**  
+- 💻 **Python Programming Masterclass**  
+- 🎓 **Tech Head at TEDxCRCE**  
+- 🧩 **NTSE Exam Qualifier**  
+- 🏅 **Student of the Year 2020 – Gyan Kendra Secondary School**
+
+---
+
+### 🧠 Specializations
+- **LLMOps & Agentic AI**
+- **Retrieval-Augmented Generation (RAG)**
+- **MCP Integrations**
+- **AI Calling Agents**
+- **Prompt Engineering**
+
+---
+
+### 🌍 Connect With Me
 <p align="left">
-<a href="https://twitter.com/khanazaan1441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khanazaan1441" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/azaan-khan-2a2324263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azaan-khan-2a2324263" height="30" width="40" /></a>
-<a href="https://instagram.com/azaan.34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azaan.34" height="30" width="40" /></a>
+<a href="https://twitter.com/khanazaan1441" target="blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
+<a href="https://linkedin.com/in/azaan-khan-2a2324263" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+<a href="https://github.com/azaan-khan" target="blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+<a href="https://huggingface.co/azaan-khan" target="blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azaan-khan&show_icons=true&theme=radical" alt="Azaan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azaan-khan&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+⭐️ *“I don’t just use AI — I build systems that make AI useful.”*
