@@ -33,6 +33,10 @@ With hands-on experience integrating models from **Hugging Face, OpenAI, and Gro
 - Built and maintained the official website for the club.  
 - Automated **personalized email sending system** using dynamic UI templates.  
 
+#### 🏢 **Client Engineering Work**
+Building production AI and backend systems for industry clients — call-intelligence platforms, document-processing pipelines, and large-scale data platforms.
+👉 Full breakdown in [**career-portfolio**](https://github.com/azaank4/career-portfolio)
+
 ---
 
 ### 🧩 Projects
